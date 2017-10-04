@@ -1,6 +1,6 @@
 # Imitation-Learning
 
-There are 2 task - 1) Reacher Evironment 2) Obstacle_reacher
+There are 2 task - 1) Reacher Evironment 2) Obstacle_reacher.
 Implementation takes ideas from One-Shot Imitation Learning by Yan Duan, and Seq2Seq Models for language translation.
 
 The Main Idea is 
