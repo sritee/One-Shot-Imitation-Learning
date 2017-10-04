@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 30 21:45:05 2017
 
 @author: sritee
 """
